@@ -1,0 +1,12 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.log
+appsettings.*.json
+!appsettings.json
+# secrets — never commit
+*.pfx
+.env
